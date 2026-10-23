@@ -1,0 +1,2 @@
+# RV1126B AI Glasses Driver
+基于 RV1126B SDK 的 AI 眼镜自定义驱动代码（SC235HGS/SC533HGS/OC0TB1B/SC132HGS 摄像头 + ICM426x IMU + 4cam dtsi）。
